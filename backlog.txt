@@ -1,0 +1,7 @@
+BACKLOG 
+
+(1) Transfer the ids from MAPSCREEN to the server 
+(2) When the transfer is done, then only start the server 
+(3) After the server is started fetch the data from the server 
+(4) Use the fetched data to do the plotting. Calcuate lattitude and longitude value from the address 
+(5) Add 100 Insurance Counselors to the SQL Database 
