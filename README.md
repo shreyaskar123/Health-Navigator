@@ -78,6 +78,10 @@ The ```src``` folder contains each of the screens in the app. Associated with ea
     FOREIGN KEY(ID) REFERENCES USER_INFO(ID)    
     FOREIGN KEY(Provider_ID) REFERENCES USER_INFO(ID)
     FOREIGN KEY(ID) REFERENCES USER_INFO(ID) // In LANGUAGES_SPOKEN 
+    
+# Secrets 
+
+This application requires the username and password to the Production/Test SQL database as well as a [Google Geocoder API key](https://developers.google.com/maps/documentation/geocoding/get-api-key). 
 
     
 # Matching Algorithm 
